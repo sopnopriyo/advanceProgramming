@@ -7,12 +7,13 @@
  	<script src="js/jquery.js"></script>
     <script src="js/controller.js"></script>
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="admin/css/style.css">
  
 </head>
 <body>
 <?php 
     include 'game/header.php';
-    $tmp = 0 ; 
+   
   ?>
   
 <div id="topbar">
@@ -29,6 +30,7 @@
 <div id="game1"></div>
 
 <div id="game2"></div>
+
 
 </div>
 
